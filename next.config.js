@@ -36,19 +36,19 @@ module.exports = {
     );
     return config;
   },
-  exportPathMap: function(defaultPathMap) {
-    return {
-      "/": { page: "/" },
-      "/landing": { page: "/landing" },
-      "/generic": { page: "/generic" },
-      "/allcourses": { page: "/allcourses" },
-      "/company": { page: "/company" },
-      "/contact": { page: "/contact" },
-      "/courses": { page: "/courses" },
-      "/index": { page: "/index" },
-      "/like": { page: "/like" },
-      "/partners": { page: "/partners" },
-      "/team": { page: "/team" }
-    };
-  }
+  // exportPathMap: function(defaultPathMap) {
+  //   return {
+  //     "/": { page: "/" },
+  //     "/landing": { page: "/landing" },
+  //     "/generic": { page: "/generic" },
+  //     "/allcourses": { page: "/allcourses" },
+  //     "/company": { page: "/company" },
+  //     "/contact": { page: "/contact" },
+  //     "/courses": { page: "/courses" },
+  //     "/index": { page: "/index" },
+  //     "/like": { page: "/like" },
+  //     "/partners": { page: "/partners" },
+  //     "/team": { page: "/team" }
+  //   };
+  // }
 };
