@@ -13,37 +13,37 @@ export default () => (
                     <article style={{backgroundImage: `url('/static/images/pic01.webp')`}}>
                         <header className="major">
                             <h3>Компания</h3>
-                            <p>Ipsum dolor sit amet</p>
+
                         </header>
                         <Link href="/company"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic02.webp')`}}>
                         <header className="major">
                             <h3>Наша команда</h3>
-                            <p>feugiat amet tempus</p>
+
                         </header>
                         <Link href="/team"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic03.webp')`}}>
                         <header className="major">
                             <h3>Все Курсы</h3>
-                            <p>Lorem etiam nullam</p>
+
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/allcourses"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic04.webp')`}}>
                         <header className="major">
                             <h3>Контакты</h3>
-                            <p>Nisl sed aliquam</p>
+
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic05.webp')`}}>
                         <header className="major">
-                            <h3>Портфолио</h3>
-                            <p>Ipsum dolor sit amet</p>
+                            <h3>Партнеры</h3>
+
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/partners"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic06.webp')`}}>
                         <header className="major">

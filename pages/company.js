@@ -4,7 +4,6 @@ import Link from 'next/link'
 import Layout from '../components/Layout'
 
 
-
 export default () => (
     <Layout>
         <Head>
@@ -47,48 +46,47 @@ export default () => (
                 <section id="two" className="spotlights">
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic08.webp" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic02.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
                                 <header className="major">
-                                    <h3>Lorem</h3>
+                                    <h3>DREAM TEAM</h3>
                                 </header>
-                                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                                <p>С нами учатся, развиваются и меняют свою жизнь 20 000 человек. Выпускники Skillbox делают дипломы для реальных брендов и устраиваются на работу в лучшие российские компании: Концерн «Калашников», Сбербанк, AIC. </p>
                                 <ul className="actions">
-                                    <li><Link href="/landing"><a className="button">Подробнее</a></Link></li>
+                                    <li><Link href="/team"><a className="button">Подробнее</a></Link></li>
                                 </ul>
                             </div>
                         </div>
                     </section>
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic09.webp" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic04.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
                                 <header className="major">
-                                    <h3>Lorem</h3>
+                                    <h3>Запишитесь на курс и измените свою жизнь</h3>
                                 </header>
-                                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                                <p>Учебные программы мы разрабатываем вместе с практикующими экспертами из лучших  digital-компаний — AIC, Creative People, Red Collar, QSoft, Agima, Сибирикс, Completo и других. Студентам доступно 11 курсов по дизайну, 10 по программированию, 12 по маркетингу и 4 по управлению.</p>
                                 <ul className="actions">
-                                    <li><Link href="/generic"><a className="button">Подробнее</a></Link></li>
+                                    <li><Link href="/generic"><a className="button">Записаться</a></Link></li>
                                 </ul>
                             </div>
                         </div>
                     </section>
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic10.webp" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic05.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
                                 <header className="major">
-                                    <h3>Lorem</h3>
+                                    <h3>Готовим лучших</h3>
                                 </header>
-                                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                                <p>Мы любим повторять, что никогда не бывает «поздно»: с нами люди находят свое призвание, работу, которая приносит удовлетворение. Не важно, сколько вам лет и чем вы занимаетесь сейчас — просто начните.</p>
                                 <ul className="actions">
-                                    <li><Link href="/generic"><a className="button">Подробнее</a></Link></li>
                                 </ul>
                             </div>
                         </div>
