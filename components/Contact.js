@@ -22,14 +22,14 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Phone</h3>
-                        <span>+998998881800</span>
+                        <span><a href='tel:+998951995544'>+998951995544</a></span>
                     </div>
                 </section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
                         <h3>Address</h3>
-                        <span>Г.Ташкднт<br />
+                        <span>Г.Ташкент<br />
                         <br />
                         улица Мустакиллик, 59А</span>
                     </div>

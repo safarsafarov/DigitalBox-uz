@@ -16,7 +16,7 @@ export default () => (
                 <section id="two" className="spotlights">
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic12.jpg" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic12.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
@@ -32,7 +32,7 @@ export default () => (
                     </section>
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic13.jpg" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic13.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
@@ -48,7 +48,7 @@ export default () => (
                     </section>
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic14.jpg" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic14.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
@@ -64,7 +64,7 @@ export default () => (
                     </section>
                     <section>
                         <Link href="/generic">
-                            <a className="image"><img src="/static/images/pic15.jpg" alt="" /></a>
+                            <a className="image"><img src="/static/images/pic15.webp" alt="" /></a>
                         </Link>
                         <div className="content">
                             <div className="inner">
